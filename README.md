@@ -25,3 +25,10 @@ Check out some screenshots of the gameplay (these were taken in Roblox Studio an
 ![menu](https://github.com/user-attachments/assets/b4bd766b-a9c2-4fca-a2b7-6ad8c579ae71)
 
 This game was heavily inspired by Peek-a-Phone
+
+# How to play:
+- Find the game on Roblox, titled "Emily's Murder Mystery"
+- Use the hints in the game and around her house to discover the passwords to her apps
+- Use the information in the apps to uncover more passwords and deduce: the murderer, the motive, the time of death
+
+Have fun playing!
